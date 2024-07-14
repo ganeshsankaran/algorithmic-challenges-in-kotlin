@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 46
+        length: 12
+        placeholder_text: // Write your code here
+        initial_state:
+          length: 23
+          offset: 46
+        initialized_from_dependency: false
+        encrypted_possible_answer: jR/ZT9jf79jpTwoNauLgTg==
+        selected: true
+        status: Solved
+        is_visible: false
+    learner_created: false
+  - name: test/Tests.kt
+    visible: true
+    learner_created: false
+  - name: task_template.md
+    visible: false
+    learner_created: false
+  - name: solution.md
+    visible: false
+    learner_created: false
+  - name: test/HiddenTests.kt
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfxqHNk7ZtD9Br3NqgSlkdbaN6HuDWjJXvP3vFSIyFROZ6nYg/viewform?usp=pp_url&entry.2103429047=Warmup+/+Sum+of+two+digits
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 23 Jun 2024 22:46:18 UTC"
+record: -1

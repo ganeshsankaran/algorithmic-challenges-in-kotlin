@@ -1,0 +1,58 @@
+type: edu
+files:
+  - name: test/Tests.kt
+    visible: true
+    learner_created: false
+  - name: task_template.md
+    visible: false
+    learner_created: false
+  - name: src/CountOnesWithUpdates.kt
+    visible: true
+    placeholders:
+      - offset: 50
+        length: 166
+        placeholder_text: |
+          // create required fields and methods here
+        initial_state:
+          length: 43
+          offset: 50
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1pSpQcw2lGoY9xRGWw+15c6q84+mgLJKAWcVEbYDGy7GH7A/EIUOy/rCkxBAmjObsz186ljDaPLz+VXrcK17nzJOI3I6gqa2C5NlHgy4QODexJ08VaipkfwaSiOBTMO01rSWWCUh8MeBosJwYh0bZg==
+        selected: true
+        status: Solved
+        is_visible: false
+      - offset: 245
+        length: 98
+        placeholder_text: '        TODO("not implemented")'
+        initial_state:
+          length: 31
+          offset: 122
+        initialized_from_dependency: false
+        encrypted_possible_answer: rv641lv9eyb8p9/+bCsFHTF3BHKQNPd/i+DFoEC2uEE=
+        selected: true
+        status: Solved
+        is_visible: false
+      - offset: 523
+        length: 0
+        placeholder_text: '        TODO("not implemented")'
+        initial_state:
+          length: 31
+          offset: 188
+        initialized_from_dependency: false
+        encrypted_possible_answer: FxcWsSO8o/poCIrzJeElmiDotm4thjhh54hf19XYSQm1esMU9J6XMWpQxvupw/YzoxRNUQCpny2L1Nl5Y3g6b9g4BMvF5sJzLpWzEkm/SnSOh/PZ5vtwVuYlok8AiG8hKkopC3CLsCbROMWSGqEtvWEX/hFYCRZzeKrGawT9FYV8vQkOcOvnF3re2HW03a4Hwn7Js5ODROFwiQ3UftYNNw==
+        selected: true
+        status: Solved
+        is_visible: false
+    learner_created: false
+  - name: test/HiddenTests.kt
+    visible: false
+    learner_created: false
+  - name: solution.md
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfxqHNk7ZtD9Br3NqgSlkdbaN6HuDWjJXvP3vFSIyFROZ6nYg/viewform?usp=pp_url&entry.2103429047=Queries+and+incremental+updates+/+Count+Ones+with+Updates
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 23 Jun 2024 23:15:06 UTC"
+record: -1
